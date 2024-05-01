@@ -8,8 +8,8 @@
 - To implement an optimal AI for Tic-Tac-Toe using Minimax:
 
 1. Define Game Variables: X, O, and EMPTY to represent the players and empty cells.
-2. 
-3. Implement Functions:
+   
+2. Implement Functions:
   - player: Determines which player's turn it is.
   - actions: Returns all possible moves on the board.
   - result: Generates a new board after a move.
