@@ -18,6 +18,7 @@
   - utility: Assigns a score to a terminal board.
   - minimax: Determines the best move for the player using the Minimax algorithm.
 3. Minimax Algorithm: Minimizes the worst-case scenario and maximizes the best-case scenario to find the optimal move.
+
 4. Outcome: Playing against this AI ensures a tie if both sides play optimally, demonstrating its optimal decision-making in Tic-Tac-Toe.
 
 
